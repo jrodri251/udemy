@@ -1,2 +1,2 @@
 # udemy
-Java Course
+Udemy coursework for OITU 
